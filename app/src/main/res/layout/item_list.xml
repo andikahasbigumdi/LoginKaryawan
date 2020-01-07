@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/img_employee"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent" />
+
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tvEmployeeName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="nama"
+            android:textStyle="bold"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tvEmployeeNip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="nip"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tvEmployeeAdress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="address"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tvEmployeeGender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="gender"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

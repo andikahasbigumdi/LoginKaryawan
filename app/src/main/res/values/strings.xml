@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MDB Karyawan </string>
+    <string name="LoginKaryawan">Login Karyawan</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="btnlogin">Login</string>
+    <string name="title_activity_abautkelompok">abautkelompok</string>
+    <string name="detailprofil" > Ketertarikan saya sangatlah besar untuk menjadi Programmer , dalam Beberapa
+        Bulan terakhir saya sering membuat aplikasi Berbasis Android dimana jika aplikasi yang saya buat dapat bermaanfaat
+        bagi orang banyak betapa bahagianya , Menjadi Android Programmer Merupakan Carier Hidup saya dan Masa depan yang gemilang
+        karena ANDROID diseluruh dunia dipakai dan digunakan sehingga peluang sangatlah besar</string>
+    <string name="namaPerushaan">Pt multi inti Digital Bisnis </string>
+</resources>
